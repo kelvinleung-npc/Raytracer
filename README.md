@@ -1,5 +1,9 @@
 # Raytracer
 A basic ray tracer for class that handled lighting on ellipsoids. 
+Example command line call:
+
+python RayTracer.py testCase1.txt
+
 Takes text files of the form: 
 NEAR <n>
 
